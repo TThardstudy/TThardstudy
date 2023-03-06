@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TThardstudy
-- 👀 I’m interested in jave and python
+- 👀 I’m interested in java and js
 - 🌱 I’m currently learning jave
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
